@@ -9,7 +9,7 @@ As an HR analyst, the task is to perform employee research. Pewlett Hackard has 
 
 Additionally, an entity relationship diagram (ERD) has been created as a guide for how to accurately pull the disparate rows and columns from the 6 files into singular new tables and lists in Postgres for the analysis:
 
-![This is an image](images/Employee.DB.png)
+![This is an image](EmployeeDB.png)
 
 Key new tables and lists created using SQL include:
 * Active employees names eligible for retirement (those born between 1952 and 1955 and who were hired between 1985-1988). The result totals 33,118 employees (current_emp.csv).
@@ -32,7 +32,7 @@ The next steps are to:
 
 ![This is an image](images/retiring_titles.png)
 
-* The below table shows that there are a total of 1,940 current employees eligible for the mentorship program:
+* The below table shows that there are a total of 1,549 current employees eligible for the mentorship program:
 
 ![This is an image](images/mentorship_eligibility.png)
 
