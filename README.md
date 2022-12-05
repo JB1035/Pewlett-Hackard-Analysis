@@ -32,6 +32,9 @@ The next steps are to:
 
 ![This is an image](images/retiring_titles.png)
 
+* If we sort retiring employees by title, you can easily see there aren't enough mentors by department to cover the leave.
+
+
 * The below table shows that there are a total of 1,549 current employees eligible for the mentorship program:
 
 ![This is an image](images/mentorship_eligibility.png)
