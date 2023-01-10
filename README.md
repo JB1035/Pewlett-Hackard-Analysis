@@ -40,14 +40,14 @@ The next steps are to:
 
 ![This is an image](images/mentorship_eligibilility_by_title.png)
 
-* If we expand the mentorship eligibility dates from employees born in 1965 only to a 1963-65 range, we get closer to a 1:2 ratio of mentors per new employees needed by department:
+* If we expand the mentorship eligibility dates from employees born in 1965 only to a 1963-65 range, we increase the ratio of mentors per new employees needed by department:
 
 ![This is an image](images/mentorship_elibility_by_title2.png)
 
 
 
 ## Summary
-* There aren't enough eligible mentors by department to cover the imminent "silver tsumani." It may be worth re-evaluating the criteria by mentor, expanding the 1965 born date to the 1963-65 range as it yeilds more mentors by deptartment closer to a 1:2 ratio. Further analysis can be conducted here to take into account the type of position and it's importance to decide if the criteria should be expanded. It is also worth revisiting the salary data, since having more mentors, even employed part-time will require more expenses. 
+* There aren't enough eligible mentors by department to cover the imminent "silver tsumani." It may be worth re-evaluating the criteria by mentor, expanding the 1965 born date to the 1963-65 range as it yeilds more mentors by deptartment closer to a 1:6 ratio for senior engineers, for example. Further analysis can be conducted here to take into account the type of position and it's importance to decide if the criteria should be expanded. It is also worth revisiting the salary data, since having more mentors, even employed part-time will require more expenses. 
 
 
 
